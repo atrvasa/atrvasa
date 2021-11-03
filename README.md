@@ -11,4 +11,4 @@ I am programming, Open-source activities exciting me.
 #### How to reach me
 
 - Twitter: https://twitter.com/atrvasa
-- Blog: https://atrvasa.com
+- Blog: http://atrvasa.com
